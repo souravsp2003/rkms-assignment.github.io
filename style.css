@@ -1,0 +1,48 @@
+.back {
+	background: url(C:/Users/mousum/Desktop/sourav/background.jpg),indigo;
+	background-blend-mode: multiply;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+.footer {
+	font-size:30px;
+	text-decoration:none;
+	color:red;
+}
+.top h1{
+	color:#c9fa05;
+}
+.top {
+	font-size:30px;
+	text-decoration:underline;
+	color:red;
+}
+.sub h1{
+	color:#fc6005;
+}
+.sub {
+	font-size:20px;
+	text-decoration:underline;
+	color:#05fc1e;
+}
+.my {
+	position:center;
+	width:400px;
+	border:10px solid blue;
+	border-radius: 20px;
+}
+.mail {
+	font-size:30px;
+	color: green;
+	transition:0.5s;
+}
+.mail:hover{
+	color:#02f6fa;
+	transform:scale(1.05)
+}
+.ab {
+	justify-content:center;
+	text-decoration:none;
+	color:#05fcfc;
+}
